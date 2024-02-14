@@ -9,7 +9,7 @@ from file_redirection import __version__ as version
 setup(
 	name="file_redirection",
 	version=version,
-	description="Redirection of File",
+	description="File Redirection",
 	author="IPS",
 	author_email="ips_it@ipsism.co.jp",
 	packages=find_packages(),

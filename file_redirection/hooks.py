@@ -3,7 +3,7 @@ from . import __version__ as app_version
 app_name = "file_redirection"
 app_title = "File Redirection"
 app_publisher = "IPS"
-app_description = "Redirection of File"
+app_description = "File Redirection"
 app_email = "ips_it@ipsism.co.jp"
 app_license = "MIT"
 

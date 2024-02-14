@@ -1,6 +1,6 @@
 ## File Redirection
 
-Redirection of File
+File Redirection
 
 #### License
 
