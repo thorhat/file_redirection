@@ -161,7 +161,7 @@ app_license = "MIT"
 
 # Request Events
 # ----------------
-# before_request = ["file_redirection.utils.before_request"]
+before_request = ["file_redirection.redirect_script.before_request"]
 # after_request = ["file_redirection.utils.after_request"]
 
 # Job Events
